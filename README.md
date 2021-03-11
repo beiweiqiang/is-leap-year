@@ -15,4 +15,6 @@ $ npm install --save is-a-leap-year
 const isLeapYear = require('is-a-leap-year');
 
 console.log(isLeapYear(2004));  // true
+console.log(isLeapYear('2004'));  // true
+console.log(isLeapYear(new Date('2004-01-01')));  // true
 ```
