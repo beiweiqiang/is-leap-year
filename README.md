@@ -1,4 +1,4 @@
-# is-leap-year
+# is-a-leap-year [![NPM version](https://img.shields.io/npm/v/is-a-leap-year.svg?style=flat)](https://www.npmjs.com/package/is-a-leap-year)
 Returns `true` if the year is a leap year.
 
 ## Install
@@ -6,13 +6,13 @@ Returns `true` if the year is a leap year.
 Install with [npm](https://www.npmjs.com/):
 
 ```sh
-$ npm install --save is-leap-year
+$ npm install --save is-a-leap-year
 ```
 
 ## Usage
 
 ```js
-const isLeapYear = require('is-leap-year');
+const isLeapYear = require('is-a-leap-year');
 
 console.log(isLeapYear(2004));  // true
 ```
