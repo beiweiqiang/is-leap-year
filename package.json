@@ -1,7 +1,7 @@
 {
   "name": "is-a-leap-year",
   "description": "Returns true if the year is a leap year.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/beiweiqiang/is-leap-year",
   "author": "beiweiqiang (https://github.com/beiweiqiang)",
   "repository": "beiweiqiang/is-leap-year",
@@ -13,9 +13,6 @@
     "index.js"
   ],
   "main": "index.js",
-  "engines": {
-    "node": ">=0.10.0"
-  },
   "scripts": {
     "test": "jest"
   },
